@@ -1,6 +1,8 @@
 # Little lemon order - cart system
 Only available in Android emulator since I have a Windows machine 🙏 
 
+After clone, run `npm i` to install project's dependencies and build the project!
+
 ## Screenshots from app
 
 ### Sign up
