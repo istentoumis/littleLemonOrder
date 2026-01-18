@@ -26,6 +26,10 @@ After clone, run `npm i` to install project's dependencies and build the project
 
 <img width="299" height="673" alt="image" src="https://github.com/user-attachments/assets/3735c219-4086-4a6d-ae0f-e05322cff163" />
 
+### Profile tab and logout
+
+<img width="301" height="671" alt="image" src="https://github.com/user-attachments/assets/b20b12b3-3d9b-4526-882a-d8507c981698" />
+
 
 
 
